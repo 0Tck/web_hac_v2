@@ -77,6 +77,10 @@ def prevapp():
 @app.route("/rem")
 def rem():
     return render_template('rem.html')
+
+@app.route("/govt")
+def govt():
+    return render_template('govt.html')
     
 if __name__ == "__main__":
     app.run()

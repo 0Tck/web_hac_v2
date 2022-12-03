@@ -16,7 +16,7 @@ body {
 }
 
 .vao {
-    background-color: cadetblue;
+    background-color: lightblue;
 }
 
 .head {
@@ -24,7 +24,7 @@ body {
 }
 
 .butt {
-    background-color: gray;
+    background-color:cadetblue;
     height: 69px;
     border-radius: 8px;
     font-size: larger;
