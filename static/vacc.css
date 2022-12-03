@@ -1,0 +1,31 @@
+body {
+    background-color: lightskyblue;
+
+}
+
+.tab {
+    font-size: larger;
+}
+
+.basic {
+    font-size: large;
+}
+
+.v1 {
+    font-size: xx-large;
+}
+
+.vao {
+    background-color: cadetblue;
+}
+
+.head {
+    font-size: xx-large;
+}
+
+.butt {
+    background-color: gray;
+    height: 69px;
+    border-radius: 8px;
+    font-size: larger;
+}
