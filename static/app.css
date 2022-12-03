@@ -1,6 +1,6 @@
 body
 {
-	background-color: beige;
+	background-color: lightblue;
 }
 #body_header
 {
@@ -14,7 +14,7 @@ form {
   max-width: 300px;
   margin: 10px auto;
   padding: 10px 20px;
-  background-color:burlywood ;
+  background-color:cadetblue ;
   border-radius: 8px;
 }
 
@@ -43,7 +43,7 @@ select {
   outline: 0;
   padding: 8px;
   width: 100%;
-  background-color:beige;
+  background-color:whitesmoke;
   color: black;
   box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
   margin-bottom: 30px;
@@ -69,13 +69,13 @@ button:hover{
 button {
   padding: 19px 39px 18px 39px;
   color: black;
-  background-color:bisque;
+  background-color:white;
   font-size: 18px;
   text-align: center;
   font-style: normal;
   border-radius: 5px;
   width: 100%;
-  border: 1px solid bisque;
+  border: 1px solid white;
   border-width: 1px 1px 3px;
   box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
   margin-bottom: 10px;
