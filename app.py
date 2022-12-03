@@ -70,5 +70,13 @@ def vaccu():
 def vacopen():
     return render_template('vacopen.html')
 
+@app.route("/prevapp")
+def prevapp():
+    return render_template('prevapp.html')
+
+@app.route("/rem")
+def rem():
+    return render_template('rem.html')
+    
 if __name__ == "__main__":
     app.run()
